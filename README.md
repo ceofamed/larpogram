@@ -2,6 +2,10 @@
 
 Клиент Telegram Desktop на базе AyuGram с собственными доработками.
 
+## Скачать
+
+Релиз [v7.0.9](https://github.com/ceofamed/larpogram/releases/latest) · Windows ([AyuGram.exe](https://github.com/ceofamed/larpogram/releases/download/v7.0.9/AyuGram.exe))
+
 ## Функции
 - добавлнение подарков в себе в профиль при нажатии на них на маркете(подарить подарок->подарить себе->выбрать подарок(обязательно улучшеный)->нажать на любой подарок на маркете
 - антикраш от стикеров,эмодзи
